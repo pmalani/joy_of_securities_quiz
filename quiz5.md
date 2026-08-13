@@ -37,12 +37,13 @@
 
 ## What kind of derivative am I? Perps a.k.a Perpetual Futures
 1. The current price is $100
-1. You can bet that price will go
-    1. Up. Long. More longs, higher future price
-    1. Down. Short. More shorts, lower future price
-1. To bring back the future price to sport price
-    1. The longs pay shorts
-    1. The shorts receive from longs
+1. The future price can be
+    1. More
+        1. Positive funding rate
+        1. Longs pay shorts
+    1. Less
+        1. Negative funding rate
+        1. Shorts pay longs
 1. How often?
     1. Every few hours (e.g. 8 hours)
 1. How much?
