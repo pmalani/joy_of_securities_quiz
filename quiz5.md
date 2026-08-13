@@ -23,7 +23,7 @@
     1. Store in a safe place 
     1. Transportation
 1. Lower prices (backwardation) is rare
-    1. E.g. Oil futures at -$35
+    1. E.g. Oil futures at -$35 during peek COVID
 1. How will the future be settled a year from now?
     1. Physical: Ahab get the can; Dick get $100
     1. Cash: Just exchange the difference between spot price year from now, say $110, and contract price of $100. Ahab gets $10. Dick keep the can. (Is there a can?)
