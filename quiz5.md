@@ -4,7 +4,7 @@
 
 1. Homer works for Nuclear Company
 1. Nuclear Company stock trades at $100
-1. Homer has MNPI (Material Non-Public Information) about a merge
+1. Homer has MNPI (Material Non-Public Information) about a merger
 1. If and how should Homer profit?
 1. Homer buys 10,000 (quanity) short-dated out of the money (OTM) call options for $0.10 at strike price of $200
 1. How much money spent? $0.10 * 10,000 * 100 (contract size)
