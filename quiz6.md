@@ -61,6 +61,14 @@ Ticker (cyber) squatting also happens
 - Float
 - E.g. 1% of float maximum
 
+### Price Return versus Total Return
+- Check 5yr return of VOO
+- Compare with SP500TR
+- Why the difference?
+    - Dividends
+        - SP500TR assumes dividend re-investments
+        - VOO only showing price return
+
 ## Deep Dive into AGG
 - [BND](https://personal1.vanguard.com/funds/ncsr/NCSR84.pdf)
 - Treasuries, Corporates, Mortgages, Municipals
