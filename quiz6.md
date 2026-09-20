@@ -2,14 +2,14 @@
 
 ## Arbitrage
 - if the basket is trading at a premium
-    - Make the basket from the components and make moeny!
+    - Make the basket from the components and make money!
 - if the basket is trading at a discount
     - Buy the basket and sell the components and make money!
 - When does this break down?
     - Extreme volatility (e.g. COVID)
     - Bond ETFs consistent trading at the discount
     - Most likely **correctly** reflecting prices
-    - Government buys what? Invidiual securities? ETFs?
+    - Government buys what? Individual securities? ETFs?
         - Government bought treasuries
         - But, for equities and corporate bonds, they bought ETFs
 
@@ -18,7 +18,7 @@
 - Mutual funds? More
 - ETFs? Same (or will exceed soon)
 
-### Survisorship Bias
+### Survivorship Bias
 - Ignoring the failed mutual funds, etfs
 
 ## Guess the ticker game?
@@ -41,23 +41,23 @@ Ticker (cyber) squatting also happens
 
 ## Deep Dive into S&P500
 
-### How many companiees?
+### How many companies?
 - 500 companies, but [503](https://www.spglobal.com/spdji/en/indices/equity/sp-500/#data) constituents (multi share classes)
 
 ### In what proportion?
-- SP&500 is market weighted
+- S&P 500 is market weighted
 
 ### Cost to buy index?
 - [VOO](https://finance.yahoo.com/quote/VOO/) at 3bps
 
-### Is [SPCX](https://finance.yahoo.com/quote/SPCX/) part of S&500?
+### Is [SPCX](https://finance.yahoo.com/quote/SPCX/) part of S&P 500?
 - Doesn't meet the inclusion criteria, yet!
 
-### Droped off the index?
+### Dropped off the index?
 - Fallen angels
 - Oversold and can be good buys at least in the short term
 
-### In porporation of?
+### In proportion of?
 - Float
 - E.g. 1% of float maximum
 
