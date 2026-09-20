@@ -1,5 +1,12 @@
 # Quiz 6
 
+## Number (count) of listed companies
+- ~5k
+- Mutual funds? More
+- ETFs? Same (or will exceed soon)
+
+### Survisorship Bias
+
 ## Guess the ticker game?
 Ticker (cyber) squatting also happens 
 
@@ -26,6 +33,10 @@ Ticker (cyber) squatting also happens
 
 ### Is [SPCX](https://finance.yahoo.com/quote/SPCX/) part of S&500?
 - Doesn't meet the inclusion criteria, yet!
+
+### Droped off the index?
+- Fallen angels
+- Oversold and can be good buys at least in the short term
 
 ### In porporation of?
 - Float
