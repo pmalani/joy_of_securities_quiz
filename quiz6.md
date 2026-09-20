@@ -30,6 +30,7 @@ Ticker (cyber) squatting also happens
 ### ETF
 - [JNK](https://finance.yahoo.com/quote/JNK/)
 - [LQD](https://finance.yahoo.com/quote/LQD/)
+- [GLD](https://finance.yahoo.com/quote/GLD/)
 
 ### CEF
 - [FRA](https://www.blackrock.com/us/individual/products/240189/blackrock-floating-rate-income-strategies-fund-inc-usd-fund)
