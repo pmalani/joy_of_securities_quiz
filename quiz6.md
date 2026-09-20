@@ -72,3 +72,10 @@ Ticker (cyber) squatting also happens
 ## Tracking Error
 - How closely does ETF track the benchmark
 - Standard Deviation
+
+## Leveraged ETFs
+- 2x-4x daily performance (long or short)
+- If the leverage is 4x, how much price drop to wipeout?
+    - 25%
+- MSTU(https://finance.yahoo.com/quote/MSTU/)
+    - Compare peformance with MSTR for various time periods
