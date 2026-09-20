@@ -19,7 +19,7 @@
 - ETFs? Same (or will exceed soon)
 
 ### Survivorship Bias
-- Ignoring the failed mutual funds, etfs
+- Ignoring the failed mutual funds, ETFs
 
 ## Guess the ticker game?
 Ticker (cyber) squatting also happens 
@@ -39,7 +39,7 @@ Ticker (cyber) squatting also happens
 ## Fees
 - [GFA](https://www.sec.gov/Archives/edgar/data/44201/000005193124000997/gfa497k.htm)
 
-## Deep Dive into S&P500
+## Deep Dive into S&P 500
 
 ### How many companies?
 - 500 companies, but [503](https://www.spglobal.com/spdji/en/indices/equity/sp-500/#data) constituents (multi share classes)
@@ -66,7 +66,7 @@ Ticker (cyber) squatting also happens
 - Compare with SP500TR
 - Why the difference?
     - Dividends
-        - SP500TR assumes dividend re-investments
+        - SP500TR assumes dividend reinvestments
         - VOO only showing price return
 
 ## Deep Dive into AGG
@@ -83,7 +83,7 @@ Ticker (cyber) squatting also happens
 
 ## Leveraged ETFs
 - 2x-4x daily performance (long or short)
-- If the leverage is 4x, how much price drop to wipeout?
+- If the leverage is 4x, how much price drop to wipe out?
     - 25%
-- MSTU(https://finance.yahoo.com/quote/MSTU/)
-    - Compare peformance with MSTR for various time periods
+- [MSTU](https://finance.yahoo.com/quote/MSTU/)
+    - Compare performance with MSTR for various time periods
